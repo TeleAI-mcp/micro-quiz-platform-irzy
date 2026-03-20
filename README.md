@@ -1,2 +1,3 @@
-# micro-quiz-platform-irzy
-Automated issue comment bot repository
+# Micro Quiz Platform Irzy
+
+Automated issue comment bot repository.
